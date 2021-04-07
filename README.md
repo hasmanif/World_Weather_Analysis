@@ -16,7 +16,3 @@ The largest total fares are in Urban areas due to the concentration of people an
 
 ### Summary of Hotel Information
 ![Hotels](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
-
-
-## Summary
-Overall, we can conclude that the most profitable city type is Urban due to the volume of rides and drivers. Even though Urban areas have the largest total fare, Rural areas have the hightest average per ride due to the distance of travel, but shows less than 5 times the total fare amounts compared to Urban. It is also fair to conclude that the average along the 4 months for each city type remains fairly constant except for the early January week were the decline could be a result of weather. 
