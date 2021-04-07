@@ -12,7 +12,7 @@ The largest total fares are in Urban areas due to the concentration of people an
 ![Search](Vacation_Search/WeatherPy_vacation_map.png)
 
 ### Summary of Travel Directions
-![Directions](Vacation_Itinerary/WeatherPy_travel_map.png)
+![Directions](Vacation_Itinerary/WeatherPy_travel_map.PNG)
 
 ### Summary of Hotel Information
 ![Hotels](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
